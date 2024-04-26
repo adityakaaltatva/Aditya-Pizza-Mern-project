@@ -6,8 +6,11 @@
 Welcome to the Aditya Blockchain Pizza Corporation app, where the delicious world of pizza meets the revolutionary power of blockchain technology.
 
 Link to Website: https://pizza-mern-project-aditya.vercel.app/
+https://master--adityamern.netlify.app/
 
 YouTube tutorial Link : https://youtu.be/OUYUKfPIQzc
+
+
 
 ## Overview
 
